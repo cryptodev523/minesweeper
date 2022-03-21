@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly and match with snapshot 1`] = `
+<div
+  className="makeStyles-container-1 MuiBox-root css-0"
+>
+  <div
+    className="makeStyles-controls-2 MuiBox-root css-0"
+  >
+    <h3
+      className="MuiTypography-root MuiTypography-h3 css-zxqeea-MuiTypography-root"
+    >
+      Welcome! Enjoy Minesweeper
+    </h3>
+    <div
+      className="makeStyles-selectWrapper-3 MuiBox-root css-0"
+    >
+      <div
+        className="MuiInput-root MuiInput-underline MuiInputBase-root MuiInputBase-colorPrimary makeStyles-select-4 css-194ccxm-MuiInputBase-root-MuiInput-root-MuiSelect-root"
+        onClick={[Function]}
+      >
+        <div
+          aria-expanded="false"
+          aria-haspopup="listbox"
+          className="MuiSelect-select MuiSelect-standard MuiInput-input MuiInputBase-input css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input"
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onMouseDown={[Function]}
+          role="button"
+          tabIndex={0}
+        >
+          Level 1
+        </div>
+        <input
+          aria-hidden={true}
+          className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+          onAnimationStart={[Function]}
+          onChange={[Function]}
+          tabIndex={-1}
+          value="new 1"
+        />
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconStandard css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon"
+          data-testid="ArrowDropDownIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </div>
+      <button
+        className="MuiLoadingButton-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root css-6m3mwv-MuiButtonBase-root-MuiButton-root-MuiLoadingButton-root"
+        data-testid="btn-start"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        Start
+      </button>
+    </div>
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 MuiTypography-alignCenter css-1sqxg7g-MuiTypography-root"
+    >
+      Click START button to start new game!
+    </h6>
+  </div>
+  <div
+    className="makeStyles-boardWrapper-5 MuiBox-root css-0"
+  >
+    <div
+      className="makeStyles-board-6 MuiBox-root css-0"
+    />
+  </div>
+</div>
+`;
