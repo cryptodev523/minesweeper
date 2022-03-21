@@ -12,6 +12,10 @@ Minesweeper game is played by connecting to the websocket `wss://hometask.eg1236
 
 In the project directory, you can run:
 
+## Demo
+
+[Demo](https://gallant-lewin-153a52.netlify.app/)
+
 ### `npm start`
 
 Runs the app in the development mode.\
