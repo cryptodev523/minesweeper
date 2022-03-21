@@ -1,7 +1,13 @@
-# Getting Started with Create React App
+# Minesweeper
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Minesweeper game is played by connecting to the websocket `wss://hometask.eg1236.com/game1/` and sending specific commands to it.
 
+## Tech Stack
+
+- React (Functional Components)
+- TypeScript
+- Material UI (CSS-in-JS)
+- Redux, Redux-Saga, Redux Toolkit
 ## Available Scripts
 
 In the project directory, you can run:
